@@ -2,4 +2,4 @@ Jogo da Velha:
 
 x | O | _ 
 O | O | x 
-x | _ | _
+x | x | _
