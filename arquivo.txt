@@ -1,5 +1,7 @@
 Jogo da Velha: 
 
-x | O | _ 
+x | O | x
 O | O | x 
 x | x | O
+
+Deu velha!
