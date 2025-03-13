@@ -1,5 +1,5 @@
 Jogo da Velha: 
 
 x | _ | _ 
-O | O | _ 
+O | O | x 
 x | _ | _
